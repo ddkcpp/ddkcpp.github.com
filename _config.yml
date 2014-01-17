@@ -17,8 +17,8 @@ address: EverCoding.net
 tagline: 天外有天，山外有山
 author :
   name : Ever
-  email : g.everax@gmail.com
-  github : iEverX
+  email : ogrecpp@gmail.com
+  github : ddkcpp
   twitter : username
   feedburner : feedname
 start_year: "2012"
@@ -86,7 +86,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : evcblog
+      short_name : ddkcpp
     livefyre :
       site_id : 123
     intensedebate :
